@@ -1,0 +1,16 @@
+:root{
+    --primary:rgba(139,2,30,1);
+    --secondary:rgba(132,4,29,1);
+    --primary-gradient:linear-gradient(tp right, var(var(--primary)),var(var(--secondary)))
+}
+
+body{
+    margin: 0;
+    box-sizing: border-box;
+    background: url('../img/FF848C9B-5195-4432-A211-E5D8BC1657FA-422-00000165EF97EC34 (1).webp');
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+Background-repeat:no-repeat;
+}
+
